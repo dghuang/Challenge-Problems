@@ -1,0 +1,7 @@
+1. Software design
+-In Python or C++, design a "Polygon" class to represent an arbitrary two-dimensional shape. This polygon class must contain a method, "pointInPolygon", that determines if an arbitrary point lies within this polygon.
+-Using the "Polygon" class as a base, create a "regularOctagon" class. This class should contain a method that contracts a regular octagon by a specified distance.  
+-You may design additional methods and classes to help you complete this task. Any external resources used should be cited, and their use is not necessarily discouraged.
+-Describe some edge cases that you would consider to test your code. You do not have to implement them; simply specify what the expected outputs should be given certain inputs.
+2. Code review
+We have written some code (see attached). Suggest any improvements that you would make to the code. Describe, if necessary, how you would refactor, fix any bugs, improve architecture, or make corrections. 
